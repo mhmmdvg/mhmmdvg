@@ -5,14 +5,8 @@
       <a href="https://mvigi.vercel.app/"><img align="right" height="24" src="https://img.shields.io/badge/portfolio-mvigi.vercel.app-000?style=flat&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
-  <!-- TODO: replace the placehold.co links with screenshots of your projects (e.g. drop PNGs in /assets and use assets/xxx.png) -->
   <tr>
-    <td width="50%"><a href="https://github.com/mhmmdvg/muusiic-swiftui"><img src="https://placehold.co/600x340/0d1117/white?text=Muusiic+SwiftUI" /></a></td>
-    <td width="50%"><a href="https://github.com/mhmmdvg/playit-kmp"><img src="https://placehold.co/600x340/0d1117/white?text=PlayIt+KMP" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/mhmmdvg/mvigi"><img src="https://placehold.co/600x340/0d1117/white?text=MVigi+Portfolio" /></a></td>
-    <td width="50%"><a href="https://github.com/mhmmdvg/your-music-rn"><img src="https://placehold.co/600x340/0d1117/white?text=Your+Music+RN" /></a></td>
+    <td colspan="2"><img src="assets/cover.svg" width="100%" alt="Vigi" /></td>
   </tr>
   <tr>
     <td colspan="2">
