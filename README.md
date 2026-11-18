@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td colspan="2">
-      <b>👋 Hey! I'm Vikri — Mobile Developer</b>
-      <a href="https://mvigi.vercel.app/"><img align="right" height="24" src="https://img.shields.io/badge/portfolio-mvigi.vercel.app-000?style=flat&logo=vercel&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/muhammad-vikri/"><img align="right" height="24" hspace="2" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <td><b>👋 Hey! I'm Vikri — Mobile Developer</b></td>
+    <td align="right">
+      <a href="https://www.linkedin.com/in/muhammad-vikri/"><img height="24" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" /></a>
+      <a href="https://mvigi.vercel.app/"><img height="24" src="https://img.shields.io/badge/mvigi.vercel.app-000?style=flat&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
