@@ -3,7 +3,7 @@
     <td colspan="2">
       <b>👋 Hey! I'm Vikri — Mobile Developer</b>
       <a href="https://mvigi.vercel.app/"><img align="right" height="24" src="https://img.shields.io/badge/portfolio-mvigi.vercel.app-000?style=flat&logo=vercel&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/muhammad-vikri/"><img align="right" height="24" hspace="4" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/muhammad-vikri/"><img align="right" height="24" hspace="2" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
